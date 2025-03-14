@@ -5,3 +5,4 @@
 ##### This is five
 ###### This is six
 This is none
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
